@@ -1,0 +1,19 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose working",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Ravi Jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "mongoose": "^6.2.4"
+  }
+}
